@@ -1,4 +1,4 @@
-// define objects
+// define objects, load the 2 modules
 var gulp = require('gulp'),
 	uglify = require('gulp-uglify');
 
