@@ -10,4 +10,3 @@ testApp.controller('TestController', ['$scope', function($scope) {
 
 // now the $scope variable's testProp property can be used in a template's ng-controller directive
 // as it's bound to data, e.g. the string "It worked"
-// test
